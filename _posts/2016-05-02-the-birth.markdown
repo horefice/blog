@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Birth"
+date:   2016-05-2 10:00:00 -0300
+categories: ["engineering", "life", "sociology"]
+author: "Henrique Orefice"
+---
+*Lorem ipsum dolor sit amet, consectetur adipisicing elit.*
+
+The lorem ipsum text is typically a scrambled section of De finibus bonorum et malorum, a 1st-century BC Latin text by Cicero, with words altered, added, and removed to make it nonsensical, improper Latin.
+
+The original passage began: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit (translation: "Neither is there anyone who loves, pursues or desires pain itself because it is pain").
+
+And this is the ~opening quote~ of my blog. High expectations =]
