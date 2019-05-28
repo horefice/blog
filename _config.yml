@@ -8,9 +8,9 @@
 # Site settings
 title: Trials of an Aspirant
 email: h.orefice@gmail.com
-description: From Engineering to Sociology
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.horefice.com" # the base hostname & protocol for your site 
+description: From Technology to Society
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://horefice.github.io" # the base hostname & protocol for your site 
 linkedin_username:  horefice
 github_username:  horefice
 

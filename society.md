@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Sociology
-permalink: /sociology/
-category: "sociology"
+title: Society
+permalink: /society/
+category: "society"
 tagline: "Cause we know little about ourselves."
 ---

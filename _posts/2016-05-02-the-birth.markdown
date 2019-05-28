@@ -2,13 +2,15 @@
 layout: post
 title:  "The Birth"
 date:   2016-05-2 10:00:00 -0300
-categories: ["engineering", "life", "sociology"]
+categories: ["society"]
 author: "Henrique Orefice"
 ---
-*Lorem ipsum dolor sit amet, consectetur adipisicing elit.*
+The opening quote of this blog is the best-known placeholder of internet, which will make room for the upcoming posts.
 
-The lorem ipsum text is typically a scrambled section of De finibus bonorum et malorum, a 1st-century BC Latin text by Cicero, with words altered, added, and removed to make it nonsensical, improper Latin.
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit..."
 
-The original passage began: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit (translation: "Neither is there anyone who loves, pursues or desires pain itself because it is pain").
+For those curious people like me, the lorem ipsum text is typically a scrambled section of a 1st-century BC Latin text by Cicero, with some modifications to make it nonsensical, improper Latin.
 
-And this is the ~opening quote~ of my blog. High expectations =]
+The original passage begins with: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit (translation: "Neither is there anyone who loves, pursues or desires pain itself because it is pain").
+
+Next post: Life in Germany :)
